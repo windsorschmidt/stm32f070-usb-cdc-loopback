@@ -1,0 +1,14 @@
+**/*.tmp
+*.jdebug*
+.cproject
+.project
+.mxproject
+.ccls-cache
+mx.scratch
+build
+build_debug
+build_release
+GTAGS
+GRTAGS
+GPATH
+compile_commands.json
