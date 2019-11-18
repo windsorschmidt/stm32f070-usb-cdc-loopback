@@ -1,6 +1,6 @@
-# Telepath Hub USB VCP software loopback
+# STM32F070 USB CDC loopback
 
-Data received on the VCP are transmitted back to the host.
+Data received on the VCP (virtual serial port) are transmitted back to the host.
 
 Changes from the generated STM32CubeMX project (included) are:
 
